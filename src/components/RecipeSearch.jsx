@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { TextInput } from "./ui/Textinput";
+import { TextInput } from "../components/ui/TextInput";
 import { data } from "../utils/data";
 import { RecipeListPage } from "../pages/RecipeListPage";
 
